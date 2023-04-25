@@ -20,8 +20,10 @@ Avant de faire ce challenge, je n'avais pas trop fait de cryptographie, j'ai pu 
 Pour rappel, voici la table de vérité XOR : 
 
 ![xor table](https://www.build-electronic-circuits.com/wp-content/uploads/2022/09/Truth-table-XOR-gate.png)
+
 Cette partie est un peu plus corsée.
 Encore une fois nous allons avoir une entrée utilisateur, celle-ci va être passée a la fonction XOR : 
+
 ![xor func](https://cdn.discordapp.com/attachments/1022274352550518857/1100424346046050374/Sans_titre.png)
 
 Notre entrée xorée, va être comparé a une chaine de caractère semblant être elle aussi xorée.
